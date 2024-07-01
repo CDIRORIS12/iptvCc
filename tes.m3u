@@ -1,0 +1,1835 @@
+ #EXTM3U
+@@ -656,1830 +655,6 @@ https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc6yql7lsdhulOWtSekpObJGvVOp8PxsTCA&usqp=CAU" group-title="EPL", LIGA INGGRIS 9
+ https://jihulab.com/iptv2571913/inal-iptv/premier-league/-/raw/main/Rligainggris9.m3u8
+ 
+-#EXTM3U
+-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+-
+-#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 1" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/233.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 2" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/234.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 3" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/235.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 4" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 4
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/236.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 5" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 5
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/237.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 6" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 6
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/238.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 7" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 7
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/239.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LOKAL 1" tvg-logo="" group-title="HMTV (not ott)",INDOSIAR LOKAL 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="" group-title="HMTV (not ott)",SCTV LOKAL 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/2.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="" group-title="HMTV (not ott)",TRANS 7
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/3.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="" group-title="HMTV (not ott)",TRANS TV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/4.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="HMTV (not ott)",INDOSIAR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/5.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="HMTV (not ott)",SCTV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/6.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="HMTV (not ott)",RCTI
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/7.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="HMTV (not ott)",MNC TV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/8.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="HMTV (not ott)",GTV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/9.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="" group-title="HMTV (not ott)",iNEWS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/10.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="HMTV (not ott)",ANTV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/11.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="" group-title="HMTV (not ott)",TV ONE
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/12.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="" group-title="HMTV (not ott)",NET TV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/13.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="" group-title="HMTV (not ott)",METRO TV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/14.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="" group-title="HMTV (not ott)",KOMPAS TV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/15.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="HMTV (not ott)",RTV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/16.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="HMTV (not ott)",TVRI
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/17.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="" group-title="HMTV (not ott)",BERITA SATU
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/18.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="HMTV (not ott)",HBO
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/21.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="" group-title="HMTV (not ott)",HBO HITS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/22.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="" group-title="HMTV (not ott)",HBO SIGN
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/23.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="HMTV (not ott)",HBO FAMILY
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/24.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="HMTV (not ott)",CINEMAX
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/25.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="" group-title="HMTV (not ott)",BIOSKOP INDONESIA
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/26.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="" group-title="HMTV (not ott)",FLIK
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/27.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="" group-title="HMTV (not ott)",WARNER TV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/29.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="DUNIA LAIN" tvg-logo="" group-title="HMTV (not ott)",DUNIA LAIN
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/50.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="CHINESE DRAMA" tvg-logo="" group-title="HMTV (not ott)",CHINESE DRAMA
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/51.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="" group-title="HMTV (not ott)",K PLUS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/52.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="" group-title="HMTV (not ott)",SONY GEM
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/54.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="" group-title="HMTV (not ott)",ROCK ENTERTAINMENT
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/55.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="KBS WORLD" tvg-logo="" group-title="HMTV (not ott)",KBS WORLD
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/64.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Action" tvg-logo="" group-title="HMTV (not ott)",Bioskop Action
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/66.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Thriller" tvg-logo="" group-title="HMTV (not ott)",Bioskop Thriller
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/67.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Bioskop China" tvg-logo="" group-title="HMTV (not ott)",Bioskop China
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/68.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Bollywood" tvg-logo="" group-title="HMTV (not ott)",Bioskop Bollywood
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/69.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Drama & Family" tvg-logo="" group-title="HMTV (not ott)",Bioskop Drama & Family
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/70.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Horror" tvg-logo="" group-title="HMTV (not ott)",Bioskop Horror
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/71.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indo" tvg-logo="" group-title="HMTV (not ott)",Bioskop Indo
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/72.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Warkop DKI" tvg-logo="" group-title="HMTV (not ott)",Bioskop Warkop DKI
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/73.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="HMTV (not ott)",DISCOVERY CHANNEL
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/74.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="HMTV (not ott)",NATIONAL GEOGRAPHIC
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/75.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="HMTV (not ott)",NAT GEO WILD
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/76.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="HMTV (not ott)",ANIMAL PLANET
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/77.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="" group-title="HMTV (not ott)",LOVE NATURE
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/79.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="" group-title="HMTV (not ott)",Discovery Asia
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/82.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="HMTV (not ott)",DMAX
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/84.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="HMTV (not ott)",HGTV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/85.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="HMTV (not ott)",TLC
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/86.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="" group-title="HMTV (not ott)",AFN
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/87.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="" group-title="HMTV (not ott)",FASHION TV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/89.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="" group-title="HMTV (not ott)",FASHION TV MIDNIGHT
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/90.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="" group-title="HMTV (not ott)",LARVA
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/91.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="UPIN IPIN" tvg-logo="" group-title="HMTV (not ott)",UPIN IPIN
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/92.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="MASHA & BEAR" tvg-logo="" group-title="HMTV (not ott)",MASHA & BEAR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/93.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="DORAEMAON" tvg-logo="" group-title="HMTV (not ott)",DORAEMAON
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/94.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="" group-title="HMTV (not ott)",MENTARI TV
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/95.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="" group-title="HMTV (not ott)",ASTRO CERIA
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/96.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="" group-title="HMTV (not ott)",HOREE
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/97.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="" group-title="HMTV (not ott)",DREAMWORS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/98.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="HMTV (not ott)",CARTOON NETWORK
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/99.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="HMTV (not ott)",NICK JR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/101.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="" group-title="HMTV (not ott)",ANIPLUS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/105.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play.gachor99.my.id:443/play/jsZRbLYuyLgJzB-p6_6LxT3cOvee7MgOuhKpJUWNqBY" group-title="HMTV (not ott)",CNN INTERNATIONAL
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/109.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="CNN OPT 2" tvg-logo="" group-title="HMTV (not ott)",CNN OPT 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/110.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="JOWO CHANNEL" tvg-logo="" group-title="HMTV (not ott)",JOWO CHANNEL
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/111.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASTRO BOO" tvg-logo="" group-title="HMTV (not ott)",ASTRO BOO
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/113.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER" tvg-logo="" group-title="HMTV (not ott)",ASTRO PREMIER
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/114.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="" group-title="HMTV (not ott)",ASTRO OASIS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/115.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASTRO RANIA" tvg-logo="" group-title="HMTV (not ott)",ASTRO RANIA
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/116.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASTRO AURA" tvg-logo="" group-title="HMTV (not ott)",ASTRO AURA
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/117.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="AWESOME" tvg-logo="" group-title="HMTV (not ott)",AWESOME
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/118.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE MOVIE" tvg-logo="" group-title="HMTV (not ott)",SHOWCASE MOVIE
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/119.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="" group-title="HMTV (not ott)",TVS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/120.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="" group-title="HMTV (not ott)",TV 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/123.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="HMTV (not ott)",TV 8
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/125.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="" group-title="HMTV (not ott)",TV 9
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/126.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="" group-title="HMTV (not ott)",LIGA 1 BRI
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/127.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="" group-title="HMTV (not ott)",PRO LIGA
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="F ONE - 1" tvg-logo="" group-title="HMTV (not ott)",F ONE - 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/129.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="F ONE - 2" tvg-logo="" group-title="HMTV (not ott)",F ONE - 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/130.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="F ONE - 3" tvg-logo="" group-title="HMTV (not ott)",F ONE - 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/131.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 1" tvg-logo="" group-title="HMTV (not ott)",MOTOGP - 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/132.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 2" tvg-logo="" group-title="HMTV (not ott)",MOTOGP - 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/133.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 3" tvg-logo="" group-title="HMTV (not ott)",MOTOGP - 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/134.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 1" tvg-logo="" group-title="HMTV (not ott)",TENNIS - 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/135.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 2" tvg-logo="" group-title="HMTV (not ott)",TENNIS - 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/136.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 3" tvg-logo="" group-title="HMTV (not ott)",TENNIS - 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/137.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 4" tvg-logo="" group-title="HMTV (not ott)",TENNIS - 4
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/138.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 5" tvg-logo="" group-title="HMTV (not ott)",TENNIS - 5
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/139.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="GOLF - 1" tvg-logo="" group-title="HMTV (not ott)",GOLF - 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/140.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="GOLF - 2" tvg-logo="" group-title="HMTV (not ott)",GOLF - 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/141.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="GOLF - 3" tvg-logo="" group-title="HMTV (not ott)",GOLF - 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/142.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 1" tvg-logo="" group-title="HMTV (not ott)",CRICKET - 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/143.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 2" tvg-logo="" group-title="HMTV (not ott)",CRICKET - 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/144.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EPL - 1" tvg-logo="" group-title="HMTV (not ott)",EPL - 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/145.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EPL - 2" tvg-logo="" group-title="HMTV (not ott)",EPL - 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/146.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EPL - 3" tvg-logo="" group-title="HMTV (not ott)",EPL - 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/147.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 ID" tvg-logo="" group-title="HMTV (not ott)",BEIN 1 ID
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/160.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 ID" tvg-logo="" group-title="HMTV (not ott)",BEIN 3 ID
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/161.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="" group-title="HMTV (not ott)",ASSP 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="" group-title="HMTV (not ott)",ASSP 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="" group-title="HMTV (not ott)",ASSP 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="" group-title="HMTV (not ott)",ASSP 4
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/169.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="" group-title="HMTV (not ott)",ASTRO ARENA 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/170.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="" group-title="HMTV (not ott)",ASTRO ARENA 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 MY" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 1 MY
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/172.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 MY" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 2 MY
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/173.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 MY" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 3 MY
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/174.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="HMTV (not ott)",WWE
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/175.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="" group-title="HMTV (not ott)",Sky Sports Premier UK
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/176.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="" group-title="HMTV (not ott)",Sky Sports Football UK
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/177.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events UK" tvg-logo="" group-title="HMTV (not ott)",Sky Sports Main Events UK
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/178.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action UK" tvg-logo="" group-title="HMTV (not ott)",Sky Sports Action UK
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/179.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena UK" tvg-logo="" group-title="HMTV (not ott)",Sky Sports Arena UK
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/180.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="" group-title="HMTV (not ott)",EUROSPORTS 1 UK
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/182.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2 UK" tvg-logo="" group-title="HMTV (not ott)",EUROSPORTS 2 UK
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/183.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SPORTS" tvg-logo="" group-title="HMTV (not ott)",ZIGGO SPORTS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/184.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ZIGGO VOETBAL" tvg-logo="" group-title="HMTV (not ott)",ZIGGO VOETBAL
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/185.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ZIGGO TENNIS" tvg-logo="" group-title="HMTV (not ott)",ZIGGO TENNIS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/186.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ZIGGO SELECT" tvg-logo="" group-title="HMTV (not ott)",ZIGGO SELECT
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/187.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="ZIGGO GOLF" tvg-logo="" group-title="HMTV (not ott)",ZIGGO GOLF
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/188.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 AR" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 1 AR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/189.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 AR" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 2 AR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/190.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 AR" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 3 AR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/191.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 AR" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 4 AR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/192.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 AR" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 5 AR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/193.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 AR" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 6 AR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/194.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 AR" tvg-logo="" group-title="HMTV (not ott)",beIN SPORTS 7 AR
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/195.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TNT 1 HD" tvg-logo="" group-title="HMTV (not ott)",TNT 1 HD
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/196.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="" group-title="HMTV (not ott)",TNT 2 HD
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/197.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TNT 3 HD" tvg-logo="" group-title="HMTV (not ott)",TNT 3 HD
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/198.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TNT 4 HD" tvg-logo="" group-title="HMTV (not ott)",TNT 4 HD
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/199.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" tvg-logo="" group-title="HMTV (not ott)",DAZN ELEVEN 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/200.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 2" tvg-logo="" group-title="HMTV (not ott)",DAZN ELEVEN 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/201.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 3" tvg-logo="" group-title="HMTV (not ott)",DAZN ELEVEN 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/202.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 4" tvg-logo="" group-title="HMTV (not ott)",DAZN ELEVEN 4
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/203.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="" group-title="HMTV (not ott)",SONY TEN 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/209.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="" group-title="HMTV (not ott)",SONY TEN 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/210.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="" group-title="HMTV (not ott)",SONY TEN 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/211.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 1" tvg-logo="" group-title="HMTV (not ott)",SPORTTV 1
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/212.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="" group-title="HMTV (not ott)",SPORTTV 2
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/213.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="" group-title="HMTV (not ott)",SPORTTV 3
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/214.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="FOX 502" tvg-logo="" group-title="HMTV (not ott)",FOX 502
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/217.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="FOX 504" tvg-logo="" group-title="HMTV (not ott)",FOX 504
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/218.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="JUST FOR LAUGHS" tvg-logo="" group-title="HMTV (not ott)",JUST FOR LAUGHS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/219.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="" group-title="HMTV (not ott)",TOM & JERRY
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/220.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="" group-title="HMTV (not ott)",MR. BEAN
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/221.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT MOTORSPORTS" tvg-logo="" group-title="HMTV (not ott)",SUPERSPORT MOTORSPORTS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/231.m3u8
+-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORTS TENNIS" tvg-logo="" group-title="HMTV (not ott)",SUPERSPORTS TENNIS
+-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/232.m3u8
+-
+-
+-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg",
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: ARENA PREMIUM 1 (HD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/40635
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: Arena Premium 1 (SD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/46623
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: ARENA PREMIUM 2 (HD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/40636
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: Arena Premium 2 (SD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/46624
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: ARENA PREMIUM 3 (HD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/40637
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: Arena Premium 3 (SD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/46625
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 1 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/699
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 1 HR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29070
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 2 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/700
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 2 HR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29071
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 3 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/701
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 3 HR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29072
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 4 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/702
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 4 HR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29073
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 5 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/703
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 5 HR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29074
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport BH
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/704
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 1 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/705
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 1 SR (HD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29066
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 2 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/706
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 2 SR (HD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29067
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 3 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/707
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 3 SR (HD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29068
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 4 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/708
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 4 SR (HD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29069
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 5 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/709
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ArenaSport 6 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/710
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Sport Klub 1 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/711
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Ex-Yu: Sport Klub 1 SR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36527
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Sport Klub 2 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/712
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Ex-Yu: Sport Klub 2 SR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36528
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Sport Klub 3 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/713
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Sport Klub 4 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/714
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Sport Klub 5 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/715
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Sport Klub 6 SR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/716
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Sport Klub Golf
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/717
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT:  Sport Klub 1 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/718
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Ex-Yu: Sport Klub 1 HR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36530
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Sport Klub 2 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/719
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Ex-Yu: Sport Klub 2 HR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36531
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Sport Klub 3 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/720
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Ex-Yu: Sport Klub 3 HR HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36532
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT:  Sport Klub 4 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/721
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT:  Sport Klub 5 HR
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/722
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/723
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/724
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Ex-Yu: Nova Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36529
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: MAX SPORT 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/41332
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: MAX SPORT 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/41333
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: Sportska TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/884
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: Sport Klub Fight
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/848
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/725
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/726
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: Eurosport 2 Xtra
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/727
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: DAZN BAR 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/728
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: DAZN BAR 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/729
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport News
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/730
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Bundesliga 1 (FHD)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/731
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Bundesliga 2 FHD (Nur bei Live Spiele)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/732
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Bundesliga 3 (Nur bei Live Spiele)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/733
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Bundesliga 4  (Nur bei Live Spiele)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/734
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Bundesliga 5  (Nur bei Live Spiele)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/735
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Bundesliga  6  (Nur bei Live Spiele)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/736
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport 1 HD+
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/737
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport 2 HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/738
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport 3 (Live Event)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/739
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport 4 (Live Event)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/740
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport 5  (Live Event)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/741
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport 6  (Live Event)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/742
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport 7 (Live Event)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/743
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S-ky Sport Bundesliga 1 (matchdays only)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/745
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Bundesliga 2 HD (Live Event)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/744
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport 1 HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/747
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sport 2 FHD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/746
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/748
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: Auto Motor Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/749
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: FC Bayern TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/750
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: S Sports Austria
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/751
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AT: S Sport Austria 1 HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/29047
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: DE: Sport Digital
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/924
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AT: ORF Sport+
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/752
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AR: beIN SPORTS Premium 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/47452
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AR: beIN sports Max 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/47454
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AR: beIN sports Max 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/47455
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: Bein Sports News
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/789
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: BEIN Sports 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/776
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: BEIN Sports 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/777
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: BEIN Sports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/778
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: BEIN Sports 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/779
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: BEIN Sports 5
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/780
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: BEIN Sports 6
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/781
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: BEIN Sports 7
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/782
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: BEIN Sports 9
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/784
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: BEIN Sports 10
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/785
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SW: Blue SPORT 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/40609
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SW: Blue SPORT 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/40610
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport Premier League
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6278
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport Action
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6275
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport Cricket
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6269
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport Grandstand
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6272
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport Maximo 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6274
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport MotorSport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6276
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport Variety 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36176
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport Variety 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36177
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport Variety 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36178
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", ZA: SuperSport Blitz
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36179
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: MySports 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6701
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: MySports 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6702
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: MySports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6703
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: MySports 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6704
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: MySports 5
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6705
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: MySports 6
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6706
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: MySports 7
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6707
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: MySports 8
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6708
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: MySports
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6709
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: TC Sport 1 FHD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6710
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: TC Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6711
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: TC Sport 2 FHD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6712
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Swiss: TC Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/6713
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", CH: Teleclub Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/20989
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", CH: Teleclub Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/20990
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/768
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/769
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Premier Sports
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/772
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: FC Liverpool  TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/774
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: FC Manchester United (MUTV)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/775
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Kombat Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/788
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: BEIN Sports 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/790
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: BEIN Sports 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/791
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: BEIN Sports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/792
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: Canal+  Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/793
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/794
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/795
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: GOLF
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/796
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: InfoSport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/797
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: RMC Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/798
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: RMC Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/799
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: RMC Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/800
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: RMC Sport 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/801
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FR: RMC Sport News
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/802
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: S Sport Uno
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1486
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: S SPORT 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1487
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: Rai Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1484
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", IT: RAI SPORT 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1485
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: S Sport 24
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1475
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: S SPORT F1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1477
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: PREMIUM SPORT HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1480
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: S SPORT Collection
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1481
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1478
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: EUROSPORT 2 HD
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1479
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: Super Tennis
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1474
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: Sport Italia
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1473
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: S Sport Moto GP
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1483
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT:  AUTO MOTO TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1489
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT: Juventus Channel
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1491
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: IT:  LAZIO CHANNEL
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1492
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/803
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/804
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: Bein Sports 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/805
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: Bein Sports 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/806
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: Bein Sports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/807
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: S-Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/810
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: Tivibuspor 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/811
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: TivibuSpor 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/812
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: TivibuSpor 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/813
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR:  A Spor
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/815
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: TRT Spor
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/816
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: Smart Spor
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/809
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: TR: Fb Tv
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/817
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: BEIN Sports
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/818
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: AFN Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/819
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Fox Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/820
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Fox Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/821
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Fox Soccer Plus
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/822
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: ESPN News
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/823
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: ESPN 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/824
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: NBA
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/826
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: NFL
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/827
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: NFL NOW
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/828
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: NFL Network
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/829
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: NFL Red Zone
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/830
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: CBS Sports
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/831
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: TSN 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/832
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: TSN 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/833
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: TSN 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/834
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: TSN 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/835
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: TSN 5
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/836
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: PAC-12 Washington
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/837
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: PAC-12 Bay Area
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/838
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: PAC-12 Los Angeles
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/839
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: PAC-12 Arizona
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/841
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: NBC Golf
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/842
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: MLB Network
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/847
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Sportsnet One
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/849
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Sportsnet 360
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/850
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Willow Cricket
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/851
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: TyC Sports
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/852
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Tennis Channel
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/853
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: WWE Network
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/854
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: FightBox
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/856
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: NBC Sports Chicago
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/888
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: MSNBC
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/889
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: SportsNet World
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/891
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: SportsNet Ontario
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/892
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Sony Ten Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/894
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Sony Ten Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/895
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: Sony Six
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/898
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: BoxNation
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/855
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Fight Network
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/859
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: De: Motorvision
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/857
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Fight Channel World
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/858
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Fight Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/860
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PT: Sport tv NBA
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/861
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK:  At The Races
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/862
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Dubai Racing
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/863
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Dubai Sports
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/864
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Dubai Sports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/865
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Racing UK
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/866
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: NBC Sports Network
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/867
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: MotorSport TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/868
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AU: beIN Sports 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/13226
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AU: beIN Sports 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/13227
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AU: beIN Sports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/13228
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: Tring Sport News
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/873
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: Tring Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/870
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: Tring Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/871
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: Tring Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/872
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: Super Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/874
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: Super Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/875
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: Super Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/876
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: Super Sport 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/877
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: K Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/878
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: K Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/879
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: K Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/880
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: K Sport 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/881
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: SS Kosova 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/882
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AL: SS Kosova 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/883
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL: Fox Sports 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/900
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL: Fox Sports 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/901
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL: Fox Sports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/902
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL: Fox Sports 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/903
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL: Fox Sports 5
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/904
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/911
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL: Ziggo Sport 1 Voetbal
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/905
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL:  Ziggo Sport  Select
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/906
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL:  Ziggo Sport  Racing
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/907
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL: Ziggo Sport  Golf
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/908
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL:  Ziggo Sport Extra 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/909
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: NL: Ziggo Sport Extra 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/910
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sprt: NL: ESPN Nederland 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/39149
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sprt: NL: ESPN Nederland 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/39150
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sprt: NL: ESPN Nederland 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/39151
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sprt: NL: ESPN Nederland 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/39152
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport: NL: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/39155
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: OSN Ad Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/912
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: OSN Ad Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/913
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: OSN Ad Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/914
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: AR: OSN Ad Sport 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/915
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PT: Sporting TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/916
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PT: Sport TV 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/917
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PT: Sport TV 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/918
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PT: Sport TV 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/919
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PT: Sport TV 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/920
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PT: Sport TV 5
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/921
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", PT: ELEVEN Sports 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1468
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", PT: ELEVEN Sports 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1469
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", PT: ELEVEN Sports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1470
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", PT: ELEVEN Sports 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1471
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", PT: ELEVEN Sports 5
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1472
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: RO: EuroSport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/922
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: UFC Fight PASS
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/923
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PL: Polsat Sport Extra
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/926
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PL: Eleven Sports 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/927
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PL: Canal Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/928
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PL: Eleven Sports 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/929
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Fight Channel
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/931
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: PL: TVP Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/932
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: FightClub
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/933
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: BG: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/934
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: BG: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/935
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: BG: Diema Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/936
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: BG: Diema Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/937
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: BG: Nova Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/938
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: BG: Ring TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/940
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: BG: Sport Plus
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/941
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BG: Max Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/21530
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BG: Max Sport 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/21531
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ES: EuroSport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/942
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ES: Barca TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/943
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ES: Real Madrid TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/944
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ES: Movistar LaLiga
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/945
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ES: beINSport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/946
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ES: M Golf
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/949
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Fox Sports News
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/950
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ES: MovieStar Futbol
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/951
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ES: Gol TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/952
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: UK: Motor Trend
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/953
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: ES: La  Liga Bar
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/954
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", RO: TELEKOM SPORT 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1733
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", RO: TELEKOM SPORT 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1734
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", RO: TELEKOM SPORT 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1735
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", RO: TELEKOM SPORT 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1736
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: RO: Digi Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/955
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: RO: Digi Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/956
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: RO: Digi Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/957
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: RO: Digi Sport 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/958
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: OWN
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/959
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: ESPN U
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/961
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: US: ESPN 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/960
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", US: ESPN News
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1668
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SE: C More Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/672
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SE: Viasat Sport Premium
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/673
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SE: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/688
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SE: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/689
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SE: TV3 Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/690
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SE: SportKanalen
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/676
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", DK: TV2 Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/631
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", DK: TV3 Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/632
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", DK: Eurosport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1737
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", DK: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1738
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AL: RTSH Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/262
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", TR: Sports TV
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/1641
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BG: Automoto Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/4896
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BG: EUROSPORT 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/4941
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BG: Max Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/4967
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BG: Max Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/4968
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BG: NOVA SPORT
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/4988
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BG: SPORT +
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/4999
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SE: Viasat Motor
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/13158
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", IT: Rai Sport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/22225
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", IT: Rai Sport plus
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/22228
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", IT: Sky Dazn Bar
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/22295
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", IT: Sky Italia Sport 24
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/22297
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", IT: Sky MotoGP
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/22298
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", IT: Sky Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/22322
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", IT: S Sport NBA
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/22338
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", IT: Vetrina Extra Dazn
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/22416
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: INFO SPORT
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36070
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: BEIN SPORTS 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36071
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: BEIN SPORTS 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36072
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: BEIN SPORTS 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36073
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: EUROSPORT 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36083
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: EUROSPORT 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36084
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: RMC Sport  1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36103
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: RMC Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36104
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: RMC Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36105
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", FR: RMC Sport News
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36106
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Sport TV 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36172
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Sport TV 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36173
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Sport TV 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36174
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Arena Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36516
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Arena Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36517
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Eurosport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36518
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Eurosport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36519
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Sport Klub
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36520
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Sport Klub 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36521
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Sport Klub 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36522
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Sport Klub 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36523
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SLO: Sport Klub 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36524
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: COSMOTE SPORT 5
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36295
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: COSMOTE SPORT 9
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36364
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: COSMOTE SPORT 6
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36368
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: COSMOTE SPORT 8
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36381
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: COSMOTE SPORT 7
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36441
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: COSMOTE SPORT 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36458
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: COSMOTE SPORT 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36485
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: COSMOTE SPORT 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36486
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: COSMOTE SPORT 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36487
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: NOVA SPORT 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36490
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: NOVA SPORT 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36491
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: Nova Sports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36492
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", GR: Nova Sports 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/36493
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BE: Eleven Sports 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/5518
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BE: Eleven Sports 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/5519
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BE: Voo Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/5528
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BE: Voo Sport World 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/5529
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", BE: Voo Sport World 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/5531
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AT: ORF Sport+
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/47762
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AT: Sky Sport Austria 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/47777
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AT: Sky Sport Austria 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/47778
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", AT: Sky Sport Austria 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/47779
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport TR: beIN SPORTS Max 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/48034
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", Sport TR: beIN SPORTS Max 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/48035
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: Sport Klub Fight
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/48037
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Ex-Yu: Sport Klub ESport
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/48038
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", MK: MNet SPORT
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/48548
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Arena Sport Premium 1 (BIH)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49158
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Arena Sport Premium 3 (BIH)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49160
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", SPORT: Arena Sport Premium 2 (BIH)
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49159
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", RO: Orange Sport 1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49800
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", RO: Orange Sport 2
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49801
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", RO: Orange Sport 3
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49802
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", RO: Orange Sport 4
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49803
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", DE: s*y Sport F1
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49817
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", DE: s*y Sport Mix
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49818
+-
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA2", DE: s*y Sport tennis
+-http://localiptv.site:85/Alija87Discourd/Hk4nXZpULDzU/49819
+-
+-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg",
+-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA1", AU: FOX SPORTS 505
+-http://tv14s.xyz:8080/753468/894568/57771
+-
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/B-Inal%20Logo.jpg" group-title="OLAHRAGA1", CA-FR | TVA SPORTS 1
+ http://tv14s.xyz:8080/753468/894568/57498
+ 
+-- 
+GitLab
+
