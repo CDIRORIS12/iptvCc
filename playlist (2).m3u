@@ -1,24 +1,6 @@
-#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png" ch-number="1002", V+ LIVE	
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/vis/drm.php?id=1002&token=85r4savcbj
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://desah.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoibmc3MjV5V3ciLCJyZWZyZXNoX3Rva2VuIjoieWpwTlUydVwvZGl3WEZwcHBiWnltUjBEQnU3dWR4dHBKTWw0Rm56RTV6VHp6cjQ2OVBqaWZkUyttYmViWFwvSTFUYmg3M3JYZnAxUkdacVwvWlpteGsxV09sWlVJOTY2VWhjUXEyYnQreTBWZnMra0ZqbitvMUt3XC9WXC9OaHEwdnZENmxaVmMrU2QzNXVHTm9pZ1lHR3FEVHFSQ2RQYUw1SWxzRFpSZVNiVzJsZk5zVHBsVTE3UnFKRUJkbk54REVNVmtKU0tsMTVnZ29uM0VOK0NJZGZOXC93TTdlYldEXC9xaWlWUDZoQkg1NUowOTliaUFtQUVWdk5vdWpNVXRRR3FIaEwrTzJ2U3RCbEZWWDR3N2Q1NHVVOU53dzVtQlNmNTZHQitIWFFMK2o2V0JtWW1nS1wvWWZHK2FhWlEwbmhmZitUSFpFVEt2S0pqUlBlNkJteUZXbll5a25MZXlMYlNtUUFHQkNKQzdkY3c0ZE09In0=
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png" ch-number="1011", V+ Sport
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/vis/drm.php?id=1011&token=85r4savcbj
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://desah.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoibkdpNmw4NG0iLCJyZWZyZXNoX3Rva2VuIjoibUFBbXZxR3JxWWthOFVhRjYyUmVhMWRMNVQwK1E5emFUV2MxblNRbEN4Nm12OEl3UUc4WlVHcjl5NUdOVTRObmdXWGZtZGkwTHB1blA3U2ZxdmR5dTRXWkNQZVpaRFdhZVdERHJqQ25rdCtMSDBKSHVXdlZ3dE9CcUhFM2d6eDAwUEthVXNnSjdQU2hrZkt1VXlRenlFM3NiWHhYZ1d5NmJZTjVjNEVFTW12Vks0bXVncTBubHdQVnQyOFRcLzc3TFNPNUJnM3BUNFQ4UXJTQnQraTFhMENYcnh6YU16RlpCYTZ2SVQrUXUyTHV2NU54R3RjR1BTb2sxQTkyem1aYU9MS2JpNW1yTVhNQ29QSTlOb25HV1J4VGJkdmVkREZkY3NBR0JYU1FGditjaDdqOFo5aUx1aXNhQ2xlaWdkMEYxckNQVU91K2tTNXh6cVVEaHFSUHNSRzZtRTJGSUpjOXgwb09LWEtZSmhVND0ifQ==
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-l.png" ch-number="1012", V+ LIVE 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/vis/drm.php?id=1012&token=85r4savcbj
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://desah.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiQ3FiOWxTM2oiLCJyZWZyZXNoX3Rva2VuIjoiQWVZSlRoN1RSNWdYWTJTeWtXMWZJSjlsb2JQS0VselJoY2RaajU0SUxnXC9iTzZ6MytrcU5oTUVwejY1UmZJQ0hyVFlKT29XNUx3c29KMGVwXC9xUWk3SXJoZkxXZ1hXdjFseHR2RHBZR2JJMXZBcjUxTFpodDQ3TmFsa0NxYTZXbnJkMUJSbUx4R3ZSQ1E3YjZvZFF2dFZ1NVB1Y3ZmV20xNGI2Yzl1ekZsa2lPNE1nZVFKcnJHanpVUGhcL2JGQjFkY1ZDWWxwM05YUVlGUXBSdGJ4bWZ4amRzSGtNWWNWeVpieTZIbkJjTHRmbEpPVFwvUmQzdUY5N2NRMXVrdTlSUnVGd0d6bGdOaDRENE9Tb3lQYVloZEVoOG1OVFRrME43N01oVVByR0x2cEhGbGJxVGlQUjN4dHd1blNzVUQ1TU45OE1sSnBHc3lVNG5HbTQ3emU5a0VFUkx4Q3pYcmpJVTFDNmFacmt2bGJSOD0ifQ==
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/240px-DAZN_Logo_Master.svg.png" group-title="Main Event",DAZN » China PR x Indonesia
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","dazn-token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMzI1dnk4NjMza2Q2MThqbnEyeW53YTVlZiJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiaW50c2lnIjoiOHF1dUFuWFRkamYxbDg5UTROZVUxTlhVWWpYenV3UHRkSkpHaEo3SWNmYyIsImlhdCI6MTcyODk5MzM5MCwiZXhwIjoxNzI5MDM2NTkwfQ.YGrZFm1XPVfla1fzBLcjU2SlYcFg320ZhtCA6FscoeM"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a496d8a08b5c51ba9bd1b8115c02ede4:d08239ba1294b1d9dddc328e9c70fdc8
+https://dcb-ac-live.cdn.indazn.com/325vy8633kd618jnq2ynwa5ef/web/stream.mpd?channel=3925&outlet=dazn-jp&plang=en
