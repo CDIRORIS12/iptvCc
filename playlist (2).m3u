@@ -1,6 +1,0 @@
-#EXTINF:-1 tvg-id="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/240px-DAZN_Logo_Master.svg.png" group-title="Main Event",DAZN » China PR x Indonesia
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","dazn-token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMzI1dnk4NjMza2Q2MThqbnEyeW53YTVlZiJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiaW50c2lnIjoiOHF1dUFuWFRkamYxbDg5UTROZVUxTlhVWWpYenV3UHRkSkpHaEo3SWNmYyIsImlhdCI6MTcyODk5MzM5MCwiZXhwIjoxNzI5MDM2NTkwfQ.YGrZFm1XPVfla1fzBLcjU2SlYcFg320ZhtCA6FscoeM"}
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a496d8a08b5c51ba9bd1b8115c02ede4:d08239ba1294b1d9dddc328e9c70fdc8
-https://dcb-ac-live.cdn.indazn.com/325vy8633kd618jnq2ynwa5ef/web/stream.mpd?channel=3925&outlet=dazn-jp&plang=en
